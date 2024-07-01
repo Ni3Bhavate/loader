@@ -1,0 +1,182 @@
+ body{
+    text-align: center;
+
+ }
+ div{
+    height: 50px;
+    width: 150px;
+    display:inline-block;
+    border: 2px solid black;
+
+ }
+#container{
+    width: 600px;
+    height: 600px;
+     display: flex; 
+     justify-content:center; 
+     flex-direction: row; 
+     flex-wrap:wrap;
+     align-items:center; 
+      align-content:flex-start; 
+}
+#box1{
+    background-color: blue;
+}
+#box2{
+    background-color: rgb(255, 0, 17);
+    height: 200px;
+}
+#box3{
+    background-color: greenyellow;
+    height: 75px;
+}
+#box4{
+    background-color: gold;
+}
+#box5{
+    background-color: salmon;
+
+}
+
+
+/* *{
+    padding: 0;
+    margin: 0;
+    color:white;
+}
+
+#navbar{
+    height: 60px;
+    background-color: black;
+}
+button{
+    background-color: burlywood;
+}
+#logo{
+    color: burlywood;
+    font-size:25px ;
+}
+a{
+    margin-right:200px ;
+} */
+
+/* div{
+    height: 100px;
+    width: 1000px;
+    background-color: black;
+    -webkit-text-fill-color: white;
+
+} */
+/* #h2{
+    height:100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+#h3{
+    height:100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+#h4{
+    height:100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+    /* border: 2px solid red;
+   color: chartreuse;
+   padding: 1px,2px,3px,4px;
+   margin: 50px, 50px, 50px,50px; */
+ /* padding-bottom: 17%;
+ padding-top: 17%;
+ padding-left: 17%;
+ padding-right: 17%; */
+
+
+
+/* #h3{
+    font-size: 25px;
+    line-height: normal;
+    text-transform:lowercase;
+    
+    font-family: "Times New Roman";
+}
+#h4{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size:25px; 
+}
+#inner{
+    font-size: 10px;
+}
+div{
+    height:100px ;
+    width: 500px;
+    background-color: blue;
+
+}
+div{
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(244, 20, 20);
+} */
+
+
+
+/* #h1{
+    font-weight: 100;
+    text-decoration: underline;
+}
+#h3{
+    font-size: 40px;
+}
+#h4{
+    font-family: 'Courier New', Courier, monospace;
+} */
+
+/* p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    /* text-decoration: underline */
+    /* text-decoration:overline */
+    /* text-decoration:line-through
+}
+
+
+/* button{ */
+    /* background-color:green */
+/* } */ */ */
+
+
+
+/* .heading{
+    color:red
+} */
+
+/* #box{
+    background-color: blue;
+ }
+  */
+ 
+ /* *{
+   /* color:red */
+/* h1{
+    color:red;
+    background-attachment: rgb(205, 38, 23);
+}
+button{
+    color:blue
+    
+}
+body{
+    background-color: #ffff00;
+}
+button{
+    background-color: brown;
+} */

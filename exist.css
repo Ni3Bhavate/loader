@@ -1,0 +1,210 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border: 20px solid yellow;
+    border-top: 20px solid rgba(0, 0, 0, 0.803);
+    border-bottom: 20px solid blueviolet;
+    border-radius: 50%;
+    animation-name:spinAnimate;
+    animation-duration:9s;
+    animation-timing-function: steps(5);
+    animation-delay: 7s;
+    animation-iteration-count: 8;
+    animation-direction: normal;
+    
+}
+@keyframes spinAnimate{
+from{
+  transform: rotate(0deg);
+}
+to{
+transform: rotate(360deg);
+}
+/* @keyframes colorAnimate{
+    0%{
+        left:0px;
+    background-color: yellow;}
+    50%{
+    background-color: blue;}
+    100%{
+        left:200px;
+        background-color: red;
+        color: ghostwhite;
+    }
+} */
+
+/* a.link{
+    color: red;
+} */
+/* a.visited{
+    color: greenyellow;
+/* } */
+/* a.hover{
+    color: blue;
+    font-size: larger;
+}
+a.activa{
+    background-color: aliceblue;
+} */ 
+/* 
+ div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-bottom: 150px; */
+    /* animation-name:colorAnimate;
+    animation-duration: 0.25s;
+    animation-timing-function: ease-in;
+    animation-delay: 1s;
+    animation-iteration-count: infinite; */
+ /* animation: colorAnimate 2s linear 3s infinite alternate-reverse;  */
+/* }   */
+
+/* @keyframes colorAnimate {
+   form{background-color: aqua;}  
+   to{background-color: crimson;}
+} */
+ /* @keyframes colorAnimate {
+    form{left: 0px;}  
+    to{left: 200px;;}
+ } */ 
+/* 
+a.hover{
+    color: rgb(209, 23, 23);
+    font-size: large;
+}
+a.active{
+    background-color: azure;
+    padding: 20px;
+    border: 2px solid red;
+    font-size: larger;
+} */
+
+
+
+
+
+
+
+
+
+
+
+    /* background-color: rgb(15, 35, 214); */
+    /* transition-property: all;
+    transition-timing-function: steps(5); */
+
+   /* transition: all 4s ease-in 5s; */
+   /* transform: rotate(180deg); */
+
+/* ?div:hover{ */
+    /* background-color: rgb(225, 65, 70);
+    font-size: 20px;
+    transform: scaley(2);
+    transition-duration: 20s;
+    /* transform: translateY(-50px); */
+    /* transform: translate(400px,400px); */
+    /* transform: skew(180deg); */ 
+
+
+/* } */
+/* div:active{
+    /* background-color: aliceblue; */
+/* //} */
+ /* */ 
+
+/* p4{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    
+ align-self: start;
+    /* font-style: oblique; */
+     /* border: 1px solid black;  */
+    /* white-space:initial; */
+    /* overflow: hidden;  */
+    /* text-overflow: clip; */
+    /* word-wrap: break-word; */
+    /* box-shadow: 10px 10px red; */
+/* }
+p5{
+    border: solid black;
+    font-weight: small-caps;
+    font-weight: 18px;
+} */ 
+/* @media(min-width:400px)and(max-width:600px){
+    div{
+        background-color: rgb(255, 0, 34);
+    }
+} */
+/* @media(width:600px){
+    div{
+        background-color: red;
+    }
+}
+@media(min-width:600px){
+    div{
+        background-color: chartreuse;
+    }
+}
+@media(min-width:200px)and(max-width:300px){
+  div{
+    background-color: rgb(149, 20, 255);
+  }
+} */
+
+
+/* div{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(218, 225, 188);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(19, 20, 20);
+
+}
+li{
+    list-style-type:none ;
+}
+.outer{
+background-color: aqua;
+height: 200px;
+width: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.inner{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    align-self: flex-start;
+} */
+
+
+
+
+
+
+/* 
+div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: 3px solid black;
+    display: inline;
+}
+#box1{
+    position:static;
+}
+#box2{
+    height: 250px;
+    width: 250px;
+    padding-top: 5px;
+} */
+
